@@ -3,7 +3,7 @@
 # 🧹 Cleanxify E-Commerce Sales Dashboard — Power BI
 
 <p align="center">
-  <img src="sales-overview.png" alt="Sales Overview Dashboard" width="100%"/>
+<img width="888" height="498" alt="image" src="https://github.com/user-attachments/assets/ac014e67-c20d-453e-a100-2614e660c91a" />
 </p>
 
 ---
